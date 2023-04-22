@@ -1,0 +1,53 @@
+{
+  "title": "Lisa Heusner",
+  "url": "https://laheusner.netlify.app",
+  "language": "en",
+  "description": "A blog about going against the grain in order to achieve progress. Fighting for those who can't fight for themselves. Reducing harm rather than eliminating hope. See my work and believe in harm reduction.",
+  "feed": {
+    "subtitle": "Harm reduction is all about meeting you where your at and loving you until you love yourself.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://laheusner.netlify.app/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://laheusner.netlify.app/feed/feed.json"
+  },
+  "author": {
+    "name": "Lisa Heusner",
+    "email": "lisa@nchrc.org",
+    "url": "https://laheusner.netlify.app/about/"
+  },
+  "nav": [{
+    "title": "home",
+    "url": "/"
+  },
+  {
+    "title": "posts",
+    "url": "/posts"
+  },
+  {
+    "title": "about",
+    "url": "/about"
+  },
+  {
+    "title": "tags",
+    "url": "/tags"
+  },
+  {
+    "title": "contact",
+    "url": "/contact"
+  },
+  {
+    "title": "rss",
+    "url": "/feed/feed.xml"
+  },
+  {
+    "title": "search",
+    "url": "/search"
+  }],
+  "config": {
+    "showDateList": true,
+    "showDatePost": true
+  }
+}
