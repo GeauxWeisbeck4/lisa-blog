@@ -2,10 +2,11 @@
 title: Lisa's Blog and Personal Website
 layout: layouts/home.njk
 ---
-<p>My name is Lisa Heusner and I work at NCHRC (the North Carolina Harm Reduction Coalition) as an outreach worker. I love my work so much that I am currently starting my own non-profit with my fiance Andrew. Everything happens for a reason, so just hang in there if you don't think that there's a good reason for you at the moment.</p>
+<p>Welcome to my personal website and my blog about my life and harm reduction. Sign up for my newsletter and fill out a form if you have questions or need any supplies. Stay safe and be responsible!</p>
+<img src="
 <h2>Recent Posts</h2>
 {% set maxPosts = collections.posts.length | min(3) %}
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive on the blog page.</a>.</p>

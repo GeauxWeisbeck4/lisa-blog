@@ -4,6 +4,6 @@ title: About Me
 templateClass: tmpl-post
 ---
 
-<h1>About</h1>
+<h1>About Me</h1>
 
 I am a person that writes stuff.
